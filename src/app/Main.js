@@ -11,6 +11,7 @@ import {
   Header,
 } from './components';
 
+import './reset.scss';
 import './main.scss';
 
 const MainApp = () => {
