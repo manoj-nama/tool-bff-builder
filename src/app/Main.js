@@ -11,6 +11,8 @@ import {
   Header,
 } from './components';
 
+import './main.scss';
+
 const MainApp = () => {
   return (
     <Router history={history}>

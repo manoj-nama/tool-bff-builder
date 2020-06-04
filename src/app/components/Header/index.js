@@ -1,10 +1,10 @@
 import React from 'react';
+import styles from './header.scss';
 
 const Header = () => {
   return (
-    <div>
-      <h1>EasyAPI</h1>
-      <p>This is the header</p>
+    <div className="header">
+      <h1>HEADER</h1>
     </div>
   )
 };
